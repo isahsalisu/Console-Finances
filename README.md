@@ -1,6 +1,6 @@
 # Console Finances
 
-Analyzing fanacial records of a real life scenerio
+Analyzing fanancial records of a real life scenerio
 
 ## Description
 
@@ -8,15 +8,15 @@ Analyzing fanacial records of a real life scenerio
 
 ## Methodes
 
-Log to console
+* Open the console
 
 ### The URL of the GitHub repository.
 
-[Console for analysing finances](https://github.com/isahsalisu/Console-Finances.git)
+[Page to Github Console-finances](https://github.com/isahsalisu/Console-Finances.git)
 
 ### Link to the deployed project.
 
-[Console for analysing finances]( https://isahsalisu.github.io/Console-Finances/)
+[Open The Console to see analysed results]( https://isahsalisu.github.io/Console-Finances/)
 
 ### Screenshoot
 
@@ -27,9 +27,7 @@ Log to console
  
   ## Licence
 
-  *Mit
+  * Mit
 
-  ## Test
 
-  Run in the coonsole.
   
