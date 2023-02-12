@@ -86,29 +86,3 @@ var finances = [
     ['Jan-2017', 138230],
     ['Feb-2017', 671099]
 ];
-/*
-let totalSum = 0;
-for (let i = 0; i < finances.length; i++) {
-    totalSum += finances[1][1]
-}
-console.log(totalSum);*/
-console.log(finances.length);
-for (var main_index = 0; main_index < finances.length; main_index++) {
-    for (var nested_index = 0; nested_index < finances[main_index].length; nested_index++) {
-        console.log(finances[main_index][nested_index]);
-
-    }
-}
-
-function totalSum() {
-    var result = 0,
-        i = 0,
-        len = finances.length;
-    while (i < len) {
-        result += finances[i][1];
-        i++;
-    }
-    return result;
-}
-
-console.log(totalSum());
